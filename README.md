@@ -1,6 +1,8 @@
 # shadowsocks-over-websocket
 基于 [shadowsocks](https://zh.wikipedia.org/zh-cn/Shadowsocks) 协议的翻墙工具 , 可部署在 [Heroku](https://www.heroku.com/) 平台上 , 实现免费科学上网
 
+## 点击下面按钮部署到 Bluemix 上
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/polyrabbit/shadowsocks-over-websocket)
 
 ## 如何部署在 Heroku 平台上
 
